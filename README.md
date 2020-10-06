@@ -5,4 +5,4 @@ I'm Lucas Bortolazzo, Software developer.
 
 My favourites tools: <b>Python, Django, HTML5, CSS, JavaScript.</b><br>
 Currently learning: Python with Django<br>
-Visit my WebSite: https://lucas-website.herokuapp.com
+[Visit my WebSite: lucas-website.com](https://lucas-website.herokuapp.com)
