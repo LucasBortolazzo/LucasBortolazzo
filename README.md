@@ -3,5 +3,5 @@
 Hi there 👋🏻
 I'm Lucas Bortolazzo, Software developer.
 
-My favourites tools: <b>Python, Django, Angular, HTML5, CSS, JavaScript.</b><br>
-Currently learning:  <b>Django Rest with Angular</b>
+My favourites tools: <b>Angular, HTML, CSS, TypeScript/JavaScript, Python, Django.</b><br>
+Currently learning:  <b>Angular</b>
