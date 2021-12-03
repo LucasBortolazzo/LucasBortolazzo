@@ -1,7 +1,6 @@
 👨🏻‍💻 <h1>A little bit about me</h1>
 
 Hi there 👋🏻
-I'm Lucas, Software developer.
+I'm Lucas, front-end developer.
 
-My favourites tools: <b>Angular, HTML, CSS, TypeScript/JavaScript, Python, Django.</b><br>
-Currently learning:  <b>Angular</b>
+My favourites tools: <b>HTML/CSS && Angular.</b><br>
