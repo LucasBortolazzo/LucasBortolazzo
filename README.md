@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Front-end developer**
 
-- 🌱 I’m currently learning **SASS**
-
-- 💬 visit my online portfolio: **https://portfolio-lucas-front.netlify.app**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **contato.lucasdolberth@gmail.com**
 
